@@ -37,7 +37,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Kerner, H., Robinson, C., Corley, I., Mohr, M., Muhawenayo, G., Zvonkov, I., Grupp, T., Jacobs, N., & Zaytar, A. (2026). Agricultural Monitoring with Fields of The World (FTW) [Tutorial]. In Conference on Neural Information Processing Systems. Climate Change AI.
+Kerner, H., Robinson, C., Corley, I., Mohr, M., Muhawenayo, G., Zvonkov, I., Grupp, T., Jacobs, N., & Zaytar, A. (2026). Agricultural Monitoring with Fields of The World (FTW) [Tutorial]. In Tackling Climate Change with Machine Learning Workshop at NeurIPS 2025. Climate Change AI.
 
 ### BibTeX
 
@@ -49,7 +49,7 @@ Kerner, H., Robinson, C., Corley, I., Mohr, M., Muhawenayo, G., Zvonkov, I., Gru
   year={2026},
   organization={Climate Change AI},
   type={Tutorial},
-  booktitle={Conference on Neural Information Processing Systems},
+  booktitle={Tackling Climate Change with Machine Learning Workshop at NeurIPS 2025},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/agricultural-monitoring-ftw}}
 }
 ```
