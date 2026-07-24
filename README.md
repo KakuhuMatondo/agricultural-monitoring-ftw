@@ -10,6 +10,7 @@ Author(s):
 - Ivan Zvonkov, University of Maryland, [izvonkov@umd.edu](izvonkov@umd.edu) 
 - Tristan Grupp, World Resources Institute, [Tristan.Grupp@wri.org](tristan.grupp@wri.org)
 - Nathan Jacobs, Washington University St. Louis, [jacobsn@wustl.edu](jacobsn@wustl.edu)
+- Akram Zaytar, Microsoft AI for Good Research Lab, [akramzaytar@microsoft.com](akramzaytar@microsoft.com)
 
 Originally presented at the CCAI Tackling Climate Change with Machine Learning Workshop at NeurIPS 2025.
 
@@ -36,19 +37,19 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Kerner, H., Robinson, C., Corley, I., Mohr, M., Muhawenayo, G., Zvonkov, I., Grupp, T., & Jacobs, N. (2025). Agricultural Monitoring with Fields of The World (FTW) [Tutorial]. In Conference on Neural Information Processing Systems. Climate Change AI.
+Kerner, H., Robinson, C., Corley, I., Mohr, M., Muhawenayo, G., Zvonkov, I., Grupp, T., Jacobs, N., & Zaytar, A. (2026). Agricultural Monitoring with Fields of The World (FTW) [Tutorial]. In Tackling Climate Change with Machine Learning Workshop at NeurIPS 2025. Climate Change AI.
 
 ### BibTeX
 
 ```
-@misc{hkerner2025agriculturalftw,
+@misc{hkerner2026agriculturalftw,
   title={Agricultural Monitoring with Fields of The World (FTW)
 },
-  author={Kerner, Hannah and Robinson, Caleb and Corley, Isaac and Mohr, Matthias and Muhawenayo, Gedeon and Zvonkov, Ivan, and Grupp, Tristan},
-  year={2025},
+  author={Kerner, Hannah and Robinson, Caleb and Corley, Isaac and Mohr, Matthias and Muhawenayo, Gedeon and Zvonkov, Ivan, and Grupp, Tristan and Zaytar, Akram},
+  year={2026},
   organization={Climate Change AI},
   type={Tutorial},
-  booktitle={Conference on Neural Information Processing Systems},
+  booktitle={Tackling Climate Change with Machine Learning Workshop at NeurIPS 2025},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/agricultural-monitoring-ftw}}
 }
 ```
